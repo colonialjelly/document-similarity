@@ -1,7 +1,7 @@
 from collections import defaultdict
 import numpy as np
 
-import utils
+from docsim import utils
 
 
 class MinHashLSH:
